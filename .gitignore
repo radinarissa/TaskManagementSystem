@@ -1,0 +1,21 @@
+# .NET Core
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dll
+*.pdb
+*.cache
+*.log
+
+# React/Node.js
+node_modules/
+build/
+dist/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
